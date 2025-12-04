@@ -21,9 +21,9 @@ Este análisis toma como referencia investigaciones internacionales como:
 UNDP (2020) – Human Development Report: Inequality in Human Lifespans
 PAHO (2021) – Social inequalities and life expectancy in the Americas 
 
-# **Objetivos del Proyecto 
+# Objetivos del Proyecto 
 
-•	** Objetivo general: **
+## Objetivo general: 
 	Analizar qué factores influyen en la esperanza de vida y cómo afectan el bienestar de la población.
 •	** Objetivos Específicos ** 
 	Comparar tendencias de esperanza de vida entre diferentes países para identificar desigualdades y patrones globales.
