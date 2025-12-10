@@ -4,11 +4,8 @@
 
 Puedes acceder al informe completo aquí:
 
-👉 **[Abrir Healthlytics.pdf](Healthlytics.pdf)**
+👉 **[Abrir Healthlytics.pdf](file:///C:/Users/HP/Downloads/Healthlytics.pdf)**
 
-### Vista previa (opcional – solo funciona en navegador):
-
-<embed src="Healthlytics.pdf" width="100%" height="600px" />
 
 ---
 # *Healthlytics : Factores de Esperanza de Vida.”*
