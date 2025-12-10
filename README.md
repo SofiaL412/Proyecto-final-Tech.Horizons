@@ -73,11 +73,11 @@ Esto generará un enlace similar a:
 
 Local URL: http://localhost:8501
 
-Network URL: http://TU_IP_LOCAL:8501
+Network URL: http://192.168.50.111:8501
 
  ## Abrir en el navegador
 
 Para ver el dashboard en tu computadora:
 
- http://localhost:8501
+http://localhost:8501
 
