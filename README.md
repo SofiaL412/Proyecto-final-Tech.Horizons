@@ -7,69 +7,77 @@ Puedes acceder al informe completo aquí:
 👉 **[Abrir Healthlytics.pdf](./Healthlytics.pdf)**
 
 
----
-Proyecto Final – Healthlytics
-Análisis de Datos para Impacto Social usando los ODS
+## Healthlytics
+Análisis de Datos para Impacto Social – ODS 3: Salud y Bienestar
 
-Créditos: Ing. Carlos Campbell – Coordinador Académico
+Este repositorio reúne todos los recursos utilizados para desarrollar Healthlytics, un proyecto enfocado en analizar los factores que influyen en la esperanza de vida y cómo estos se relacionan con condiciones sociales, sanitarias y económicas.
 
- Descripción General
+El objetivo central es mostrar de manera clara cómo la educación, la inversión pública, la salud preventiva y otros indicadores influyen directamente en la calidad y esperanza de vida de las personas.
 
-Este repositorio contiene todos los recursos utilizados para desarrollar Healthlytics, un proyecto de análisis de datos enfocado en comprender los factores que influyen en la esperanza de vida, alineado con el ODS 3: Salud y Bienestar.
+Además, se estudia la brecha existente entre países vecinos como Costa Rica y Panamá, explorando por qué sus resultados son tan distintos a pesar de su cercanía geográfica.
 
-El propósito central es demostrar cómo la combinación de educación, salud preventiva, inversión pública y condiciones sociales determina cuántos años viven las personas… y por qué existen brechas entre países vecinos como Costa Rica y Panamá.
+## Objetivo del Proyecto
 
- ## Objetivo del Proyecto
+Desarrollar una solución basada en datos que permita:
 
-Desarrollar una solución basada en datos que permita analizar desigualdades en la esperanza de vida, identificar factores determinantes de salud pública y comprender cómo estos influyen en la calidad de vida de distintos países.
+Analizar desigualdades en la esperanza de vida.
 
-El proyecto busca generar impacto social, evidenciando cómo las decisiones políticas y sociales moldean la longevidad.
+Identificar los factores que más influyen en la salud pública.
+
+Comprender cómo estos factores afectan la calidad de vida entre diferentes países.
+
+El proyecto busca aportar información útil para respaldar decisiones que tengan impacto social, especialmente en temas de salud y bienestar.
 
 ## Hipótesis del Estudio
 
-La esperanza de vida en Costa Rica es mayor que en Panamá debido a la combinación de mayor inversión en salud, mejor cobertura de vacunación, menor mortalidad adulta y una relación más fuerte entre escolaridad y salud pública.
+La esperanza de vida es mayor en Costa Rica que en Panamá debido a una combinación de factores, entre ellos:
 
-Se espera encontrar que las variables educativas, económicas y sanitarias tienen un impacto más favorable en Costa Rica, explicando su ventaja en longevidad.
+Mayor inversión pública en salud.
+
+Cobertura más amplia en vacunación.
+
+Menor mortalidad adulta.
+
+Relación más sólida entre escolaridad y salud preventiva.
+
+Esperamos que variables educativas, económicas y sanitarias expliquen la ventaja de Costa Rica en este indicador.
 
 ## Conclusiones Principales
 
-El análisis confirma que Costa Rica mantiene consistentemente una mayor esperanza de vida que Panamá, gracias a:
+El análisis confirma que Costa Rica mantiene una esperanza de vida superior gracias a:
 
-Menor mortalidad adulta e infantil
- Inversión pública en salud más sólida y constante
+Menor mortalidad infantil y adulta.
 
- Cobertura de vacunación más amplia y uniforme
-Relación más fuerte entre escolaridad y salud pública
+Inversión en salud más estable y robusta.
 
- Menor variabilidad en factores críticos de riesgo
+Mayor cobertura de vacunación.
 
-El estudio demuestra que la esperanza de vida no depende de un solo indicador, sino de la interacción entre educación, economía y salud preventiva.
-Fortalecer estos factores en Panamá podría reducir significativamente la brecha con Costa Rica.
+Vínculo más fuerte entre educación y salud pública.
 
-## ⚙️ Cómo Ejecutar el Dashboard
-1️⃣ Instalar dependencias
+Este estudio evidencia que la esperanza de vida no depende de un único factor, sino de la interacción entre educación, economía y salud preventiva.
 
-Abre la terminal dentro de la carpeta del proyecto y ejecuta:
+Fortalecer estos elementos en Panamá podría ayudar a disminuir la brecha observada entre ambos países.
+
+## Cómo Ejecutar el Dashboard
+**Instalar dependencias**
+
+Desde la terminal dentro del proyecto, ejecuta:
 
 pip install -r requirements.txt
 
-2️⃣ Iniciar el dashboard
-
-En la misma terminal, ejecuta:
-
+## Iniciar el dashboard con Streamlit
 streamlit run app.py
 
 
-Al ejecutarlo, Streamlit mostrará algo así:
+Esto generará un enlace similar a:
 
 Local URL: http://localhost:8501
-Network URL: http://192.168.50.111:8501
 
-3️⃣ Abrir en el navegador
+Network URL: http://TU_IP_LOCAL:8501
 
-Para usarlo en tu propia computadora:
-👉 Abre tu navegador y entra a http://localhost:8501
+ ## Abrir en el navegador
 
-Para que alguien más en tu red local lo vea:
-👉 Usa http://192.168.50.111:8501
+Para ver el dashboard en tu computadora:
+
+ http://localhost:8501
 
